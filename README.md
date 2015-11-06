@@ -3,7 +3,9 @@
 
 ## рюю╣
 1.Qt 4.84 
+
 2.Microsoft Visual C++ Compiler 10.0 
+
 3.wwWidgets сК log4qt©Б
 
 ## ндуб
