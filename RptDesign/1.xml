@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Reports email="aliks-os@yandex.ru" programmer="Aleksey Osipov" lib="QtRPT">
+     <Report marginsLeft="40" pageWidth="840" marginsBottom="40" marginsTop="40" pageHeight="1188" marginsRight="40" pageNo="1" orientation="0">
+          <ReportBand width="760" left="40" height="583" type="PageHeader" name="PageHeaderBand" top="40">
+               <TContainerField fontBold="0" printing="[Page]+[TotalPages] > 3?1:0" fontItalic="0" borderLeft="rgba(0,0,0,255)" fontFamily="MS Shell Dlg 2" fontUnderline="0" highlighting="1>3;bold=?1:0;italic=?1:0;underline=?1:0;fontColor=?rgba(255,170,255,255);bgColor=?rgba(85,170,127,255);" name="field2" fontColor="rgba(0,0,0,255)" borderBottom="rgba(0,0,0,255)" backgroundColor="rgba(255,255,255,0)" value="[Page]" borderColor="rgba(0,0,0,255)" width="682" aligmentH="hLeft" top="89" borderTop="rgba(0,0,0,255)" borderWidth="1px" borderStyle="solid" fontSize="14" height="33" type="labelImage" borderRight="rgba(0,0,0,255)" left="24" aligmentV="vCenter"/>
+          </ReportBand>
+     </Report>
+</Reports>

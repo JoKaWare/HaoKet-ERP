@@ -1,0 +1,4 @@
+#ifndef FASUMMARYBEAN_H
+#define FASUMMARYBEAN_H
+
+#endif // FASUMMARYBEAN_H
