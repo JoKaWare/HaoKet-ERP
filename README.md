@@ -2,7 +2,7 @@
 好客来 进销存供应链系统,基于QT跨平台 应用模块插件化，使用postgresql 数据库 可用于商品流通行业
 
 ## 依赖
-1.Qt 4.84 
+1.Qt 4.8.4 
 
 2.Microsoft Visual C++ Compiler 10.0 
 
