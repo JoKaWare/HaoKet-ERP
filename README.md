@@ -1,14 +1,18 @@
-## ËµÃ÷
-ºÃ¿ÍÀ´ ½øÏú´æ¹©Ó¦Á´ÏµÍ³,»ùÓÚQT¿çÆ½Ì¨ Ó¦ÓÃÄ£¿é²å¼ş»¯£¬Ê¹ÓÃpostgresql Êı¾İ¿â ¿ÉÓÃÓÚÉÌÆ·Á÷Í¨ĞĞÒµ
+## è¯´æ˜
+å¥½å®¢æ¥ è¿›é”€å­˜ä¾›åº”é“¾ç³»ç»Ÿ,åŸºäºQTè·¨å¹³å° åº”ç”¨æ¨¡å—æ’ä»¶åŒ–ï¼Œä½¿ç”¨postgresql æ•°æ®åº“ å¯ç”¨äºå•†å“æµé€šè¡Œä¸š
 
-## ÒÀÀµ
+## ä¾èµ–
 1.Qt 4.8.4 
 
 2.Microsoft Visual C++ Compiler 10.0 
 
-3.wwWidgets Óë log4qt¿â
+3.wwWidgets ä¸ log4qtåº“
 
-## ÎÄÕÂ
+## å®‰è£…åŒ…ä¸‹è½½
 
-## ½»Á÷Èº
-ºÃ¿ÍÀ´ERP£º[`423811442`](http://shang.qq.com/wpa/qunwpa?idkey=42ddfae43805df0af20ea8b616d4156c41e65511443fb3e04fb3c1b3cf410b54)
+å®¢æˆ·ç«¯ï¼š[`ä¸‹è½½`](http://www.haokel.com:8083/downfile/Setup.exe)
+
+æœåŠ¡ç«¯ï¼š[`ä¸‹è½½`](http://www.haokel.com:8083/downfile/Setup-server.exe)
+
+## äº¤æµç¾¤
+å¥½å®¢æ¥ERPï¼š[`QQç¾¤:423811442`](http://shang.qq.com/wpa/qunwpa?idkey=42ddfae43805df0af20ea8b616d4156c41e65511443fb3e04fb3c1b3cf410b54)
