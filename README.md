@@ -10,7 +10,7 @@
 
 ## 站点
 
-好客来ERP站点[`网站`](http://www.haokel.com:8083)
+好客来ERP站点[`www.haokel.com:8083`](http://www.haokel.com:8083)
 
 ## 安装包下载
 
