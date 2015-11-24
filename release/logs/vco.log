@@ -3230,3 +3230,16 @@ QPSQL: 不能连接
 2015-11-23 09:20:35.724 DEBUG QueryTool: - , 001, 2012, 2, 仓库资料, 0, 15, 刘一平, 打开仓库资料, 2015-11-23T09:20:35
 2015-11-23 09:20:38.883 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
 2015-11-23 09:20:38.883 DEBUG QueryTool: - , 001, 0, 1, 退出系统, 0, 15, 刘一平, 退出系统, 2015-11-23T09:20:38
+2015-11-24 10:35:35.984 DEBUG root: - 系统初始化 ...
+2015-11-24 10:35:36.172 DEBUG DBManager: - 连接主数据库成功
+2015-11-24 10:35:36.188 DEBUG DBManager: - 连接主数据库成功
+2015-11-24 10:35:37.541 DEBUG root: - staticAppInstance init 
+2015-11-24 10:35:37.557 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-24 10:35:37.557 DEBUG QueryTool: - , 001, 0, 1, 登陆系统, 0, 15, 刘一平, 登陆系统, 2015-11-24T10:35:37
+2015-11-24 10:35:37.955 DEBUG DBManager: - 连接数据库 goin_001_2013 成功
+2015-11-24 10:48:24.882 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-24 10:48:24.882 DEBUG QueryTool: - , 001, 7003, 7, 付款单, 0, 15, 刘一平, 打开付款单, 2015-11-24T10:48:24
+2015-11-24 10:48:28.853 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-24 10:48:28.853 DEBUG QueryTool: - , 001, 5004, 5, 其他出库单, 0, 15, 刘一平, 打开其他出库单, 2015-11-24T10:48:28
+2015-11-24 10:48:31.954 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-24 10:48:31.954 DEBUG QueryTool: - , 001, 0, 1, 退出系统, 0, 15, 刘一平, 退出系统, 2015-11-24T10:48:31
