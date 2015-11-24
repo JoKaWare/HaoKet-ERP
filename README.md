@@ -38,7 +38,7 @@ win32 {
     #CONFIG(debug): LIBS += ../debug/commlib.lib ../CommonFiles/lib/log4qtd.lib ../CommonFiles/lib/kWidgetd.lib ../CommonFiles/lib/wwwidgets4d.lib
     #CONFIG(debug): DESTDIR = ../debug/plugins
 } 
-把release 用#注释掉，把debug 开启
+把release 用#注释掉，把debug 开启 编译后会在plugins目录下生成各项目插件文件
 
 designer 目录下文件是QtCreator 开发所属插件文件【只能用于Qt4.8.4 QtCreator 2.7】,请复制文件到自已QtCreator归属目录designer下
 
