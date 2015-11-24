@@ -14,10 +14,10 @@ INCLUDEPATH += ../lib/ E:/qtproj/log4qt/src
 
 win32 {
     #CONFIG(release): LIBS += ../lib/release/parent.lib
-    #CONFIG(release): LIBS += ../release/commlib.lib E:/qtproj/log4qt/src/release/log4qt.lib E:/qtproj/kWidget-plug/kWidget/release/kWidget.lib E:/qtproj/wwWidgets/widgets/release/wwwidgets4.lib
-    #CONFIG(release):  DESTDIR       = ../release
-    CONFIG(debug): LIBS += ../debug/commlib.lib E:/qtproj/log4qt/src/debug/log4qt.lib
-    CONFIG(debug): DESTDIR = ../debug
+    CONFIG(release): LIBS += ../release/commlib.lib ../CommonFiles/lib/log4qt.lib
+    CONFIG(release):  DESTDIR  = ../release
+    #CONFIG(debug): LIBS += ../debug/commlib.lib ../CommonFiles/lib/log4qtd.lib
+    #CONFIG(debug): DESTDIR = ../debug
 }
 SOURCES +=\
         mainwindow.cpp \

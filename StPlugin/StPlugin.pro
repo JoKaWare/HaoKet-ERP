@@ -15,7 +15,7 @@ win32 {
     #CONFIG(release): LIBS += ../lib/release/parent.lib
     CONFIG(release): LIBS += ../release/commlib.lib ../CommonFiles/lib/log4qt.lib ../CommonFiles/lib/kWidget.lib ../CommonFiles/lib/wwwidgets4.lib
     CONFIG(release):  DESTDIR       = ../release/plugins
-    #CONFIG(debug): LIBS += ../debug/commlib.lib ../CommonFiles/lib/log4qt.lib ../CommonFiles/lib/kWidgetd.lib ../CommonFiles/lib/wwwidgets4d.lib
+    #CONFIG(debug): LIBS += ../debug/commlib.lib ../CommonFiles/lib/log4qtd.lib ../CommonFiles/lib/kWidgetd.lib ../CommonFiles/lib/wwwidgets4d.lib
     #CONFIG(debug): DESTDIR = ../debug/plugins
 }
 DEFINES += STPLUGIN_LIBRARY
