@@ -3190,3 +3190,43 @@ QPSQL: 不能连接
 2015-11-19 10:19:54.843 DEBUG root: - 系统初始化 ...
 2015-11-19 10:19:54.888 DEBUG DBManager: - 连接主数据库成功
 2015-11-19 10:19:54.908 DEBUG DBManager: - 连接主数据库成功
+2015-11-23 08:53:49.251 DEBUG root: - 系统初始化 ...
+2015-11-23 08:53:50.112 DEBUG DBManager: - 连接主数据库成功
+2015-11-23 08:53:50.201 DEBUG DBManager: - 连接主数据库成功
+2015-11-23 08:53:51.958 DEBUG root: - staticAppInstance init 
+2015-11-23 08:53:51.970 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-23 08:53:51.970 DEBUG QueryTool: - , 001, 0, 1, 登陆系统, 0, 15, 刘一平, 登陆系统, 2015-11-23T08:53:51
+2015-11-23 08:53:52.769 DEBUG DBManager: - 连接数据库 goin_001_2013 成功
+2015-11-23 08:53:58.651 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-23 08:53:58.652 DEBUG QueryTool: - , 001, 2003, 2, 浏览客户资料, 0, 15, 刘一平, 打开浏览客户资料, 2015-11-23T08:53:58
+2015-11-23 08:54:01.283 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-23 08:54:01.283 DEBUG QueryTool: - , 001, 2002, 2, 客户资料, 0, 15, 刘一平, 打开客户资料, 2015-11-23T08:54:01
+2015-11-23 08:54:07.060 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-23 08:54:07.060 DEBUG QueryTool: - , 001, 2005, 2, 职员资料, 0, 15, 刘一平, 打开职员资料, 2015-11-23T08:54:07
+2015-11-23 08:54:11.159 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-23 08:54:11.160 DEBUG QueryTool: - , 001, 2003, 2, 浏览客户资料, 0, 15, 刘一平, 打开浏览客户资料, 2015-11-23T08:54:11
+2015-11-23 08:54:13.159 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-23 08:54:13.159 DEBUG QueryTool: - , 001, 2002, 2, 客户资料, 0, 15, 刘一平, 打开客户资料, 2015-11-23T08:54:13
+2015-11-23 08:54:15.494 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-23 08:54:15.533 DEBUG QueryTool: - , 001, 2002, 2, 客户资料, 0, 15, 刘一平, 打开客户资料, 2015-11-23T08:54:15
+2015-11-23 08:54:18.425 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-23 08:54:18.425 DEBUG QueryTool: - , 001, 0, 1, 退出系统, 0, 15, 刘一平, 退出系统, 2015-11-23T08:54:18
+2015-11-23 09:20:13.310 DEBUG root: - 系统初始化 ...
+2015-11-23 09:20:13.358 DEBUG DBManager: - 连接主数据库成功
+2015-11-23 09:20:13.379 DEBUG DBManager: - 连接主数据库成功
+2015-11-23 09:20:14.803 DEBUG root: - staticAppInstance init 
+2015-11-23 09:20:14.805 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-23 09:20:14.805 DEBUG QueryTool: - , 001, 0, 1, 登陆系统, 0, 15, 刘一平, 登陆系统, 2015-11-23T09:20:14
+2015-11-23 09:20:14.959 DEBUG DBManager: - 连接数据库 goin_001_2013 成功
+2015-11-23 09:20:18.138 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-23 09:20:18.139 DEBUG QueryTool: - , 001, 6002, 6, 销售发货单, 0, 15, 刘一平, 打开销售发货单, 2015-11-23T09:20:18
+2015-11-23 09:20:20.849 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-23 09:20:20.849 DEBUG QueryTool: - , 001, 10003, 10, 串码调拨, 0, 15, 刘一平, 打开串码调拨, 2015-11-23T09:20:20
+2015-11-23 09:20:24.960 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-23 09:20:24.960 DEBUG QueryTool: - , 001, 2005, 2, 职员资料, 0, 15, 刘一平, 打开职员资料, 2015-11-23T09:20:24
+2015-11-23 09:20:30.962 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-23 09:20:30.962 DEBUG QueryTool: - , 001, 2009, 2, 供应商资料, 0, 15, 刘一平, 打开供应商资料, 2015-11-23T09:20:30
+2015-11-23 09:20:35.723 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-23 09:20:35.724 DEBUG QueryTool: - , 001, 2012, 2, 仓库资料, 0, 15, 刘一平, 打开仓库资料, 2015-11-23T09:20:35
+2015-11-23 09:20:38.883 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-23 09:20:38.883 DEBUG QueryTool: - , 001, 0, 1, 退出系统, 0, 15, 刘一平, 退出系统, 2015-11-23T09:20:38
