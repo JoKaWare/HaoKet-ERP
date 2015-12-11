@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/chair_48.png</file>
+        <file>images/chair2_48.png</file>
+        <file>images/empty_48.png</file>
+        <file>images/right.png</file>
+        <file>images/white_button.png</file>
+        <file>images/not.png</file>
+        <file>images/empty.png</file>
+        <file>images/empty1.png</file>
+        <file>images/down.png</file>
+        <file>images/down1.png</file>
+        <file>images/down24.png</file>
+    </qresource>
+</RCC>
