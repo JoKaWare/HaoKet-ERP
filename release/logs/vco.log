@@ -3243,3 +3243,97 @@ QPSQL: 不能连接
 2015-11-24 10:48:28.853 DEBUG QueryTool: - , 001, 5004, 5, 其他出库单, 0, 15, 刘一平, 打开其他出库单, 2015-11-24T10:48:28
 2015-11-24 10:48:31.954 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
 2015-11-24 10:48:31.954 DEBUG QueryTool: - , 001, 0, 1, 退出系统, 0, 15, 刘一平, 退出系统, 2015-11-24T10:48:31
+2015-11-27 17:19:35.180 DEBUG root: - 系统初始化 ...
+2015-11-27 17:19:35.462 DEBUG DBManager: - 连接主数据库成功
+2015-11-27 17:19:35.483 DEBUG DBManager: - 连接主数据库成功
+2015-11-27 17:19:36.861 DEBUG root: - staticAppInstance init 
+2015-11-27 17:19:36.864 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:19:36.864 DEBUG QueryTool: - , 001, 0, 1, 登陆系统, 0, 15, 刘一平, 登陆系统, 2015-11-27T17:19:36
+2015-11-27 17:19:37.071 DEBUG DBManager: - 连接数据库 goin_001_2013 成功
+2015-11-27 17:19:39.904 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:19:39.905 DEBUG QueryTool: - , 001, 6002, 6, 销售发货单, 0, 15, 刘一平, 打开销售发货单, 2015-11-27T17:19:39
+2015-11-27 17:19:42.928 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:19:42.928 DEBUG QueryTool: - , 001, 5003, 5, 其他入库单, 0, 15, 刘一平, 打开其他入库单, 2015-11-27T17:19:42
+2015-11-27 17:19:45.929 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:19:45.929 DEBUG QueryTool: - , 001, 5004, 5, 其他出库单, 0, 15, 刘一平, 打开其他出库单, 2015-11-27T17:19:45
+2015-11-27 17:20:00.901 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:20:00.902 DEBUG QueryTool: - , 001, 5004, 5, 其他出库单, 50048, 15, 刘一平, 打印其他出库单, 2015-11-27T17:20:00
+2015-11-27 17:23:29.105 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:23:29.105 DEBUG QueryTool: - , 001, 5004, 5, 其他出库单, 50048, 15, 刘一平, 打印其他出库单, 2015-11-27T17:23:29
+2015-11-27 17:24:48.103 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:24:48.103 DEBUG QueryTool: - , 001, 5004, 5, 其他出库单, 50048, 15, 刘一平, 打印其他出库单, 2015-11-27T17:24:48
+2015-11-27 17:25:15.044 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:25:15.045 DEBUG QueryTool: - , 001, 7007, 7, 存货明细帐, 0, 15, 刘一平, 打开存货明细帐, 2015-11-27T17:25:15
+2015-11-27 17:25:18.906 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:25:18.906 DEBUG QueryTool: - , 001, 4101, 4, 采购订单查询, 0, 15, 刘一平, 打开采购订单查询, 2015-11-27T17:25:18
+2015-11-27 17:25:30.924 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:25:30.924 DEBUG QueryTool: - , 001, 0, 1, 退出系统, 0, 15, 刘一平, 退出系统, 2015-11-27T17:25:30
+2015-11-27 17:35:42.940 DEBUG root: - 系统初始化 ...
+2015-11-27 17:35:42.986 DEBUG DBManager: - 连接主数据库成功
+2015-11-27 17:35:43.007 DEBUG DBManager: - 连接主数据库成功
+2015-11-27 17:35:44.486 DEBUG root: - staticAppInstance init 
+2015-11-27 17:35:44.488 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:35:44.488 DEBUG QueryTool: - , 001, 0, 1, 登陆系统, 0, 15, 刘一平, 登陆系统, 2015-11-27T17:35:44
+2015-11-27 17:35:44.621 DEBUG DBManager: - 连接数据库 goin_001_2013 成功
+2015-11-27 17:35:47.796 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:35:47.797 DEBUG QueryTool: - , 001, 6006, 6, 委托代销发货单, 0, 15, 刘一平, 打开委托代销发货单, 2015-11-27T17:35:47
+2015-11-27 17:36:15.887 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:36:15.888 DEBUG QueryTool: - , 001, 6006, 6, 委托代销发货单, 60063, 15, 刘一平, 删除委托代销发货单, 2015-11-27T17:36:15
+2015-11-27 17:36:19.698 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:36:19.699 DEBUG QueryTool: - , 001, 4001, 4, 采购订单, 0, 15, 刘一平, 打开采购订单, 2015-11-27T17:36:19
+2015-11-27 17:36:32.898 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:36:32.898 DEBUG QueryTool: - , 001, 10001, 10, 串码入库, 0, 15, 刘一平, 打开串码入库, 2015-11-27T17:36:32
+2015-11-27 17:36:37.784 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:36:37.784 DEBUG QueryTool: - , 001, 10002, 10, 串码出库, 0, 15, 刘一平, 打开串码出库, 2015-11-27T17:36:37
+2015-11-27 17:36:39.322 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:36:39.322 DEBUG QueryTool: - , 001, 10003, 10, 串码调拨, 0, 15, 刘一平, 打开串码调拨, 2015-11-27T17:36:39
+2015-11-27 17:36:43.571 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:36:43.572 DEBUG QueryTool: - , 001, 2003, 2, 浏览客户资料, 0, 15, 刘一平, 打开浏览客户资料, 2015-11-27T17:36:43
+2015-11-27 17:36:46.021 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:36:46.022 DEBUG QueryTool: - , 001, 2002, 2, 客户资料, 0, 15, 刘一平, 打开客户资料, 2015-11-27T17:36:46
+2015-11-27 17:36:48.812 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:36:48.812 DEBUG QueryTool: - , 001, 2002, 2, 客户资料, 0, 15, 刘一平, 打开客户资料, 2015-11-27T17:36:48
+2015-11-27 17:37:01.832 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:37:01.832 DEBUG QueryTool: - , 001, 5501, 6, 出入库流水帐, 0, 15, 刘一平, 打开出入库流水帐, 2015-11-27T17:37:01
+2015-11-27 17:37:13.271 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-11-27 17:37:13.271 DEBUG QueryTool: - , 001, 0, 1, 退出系统, 0, 15, 刘一平, 退出系统, 2015-11-27T17:37:13
+2015-12-09 10:53:32.482 DEBUG root: - 系统初始化 ...
+2015-12-09 10:53:33.253 DEBUG DBManager: - 连接主数据库成功
+2015-12-09 10:53:33.278 DEBUG DBManager: - 连接主数据库成功
+2015-12-09 10:53:35.035 DEBUG root: - staticAppInstance init 
+2015-12-09 10:53:35.038 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-12-09 10:53:35.039 DEBUG QueryTool: - , 001, 0, 1, 登陆系统, 0, 15, 刘一平, 登陆系统, 2015-12-09T10:53:35
+2015-12-09 10:53:35.342 DEBUG DBManager: - 连接数据库 goin_001_2013 成功
+2015-12-09 10:53:38.487 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-12-09 10:53:38.488 DEBUG QueryTool: - , 001, 6002, 6, 销售发货单, 0, 15, 刘一平, 打开销售发货单, 2015-12-09T10:53:38
+2015-12-09 10:53:42.001 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-12-09 10:53:42.001 DEBUG QueryTool: - , 001, 6004, 4, 销售出库单, 0, 15, 刘一平, 打开销售出库单, 2015-12-09T10:53:42
+2015-12-09 10:53:46.065 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-12-09 10:53:46.065 DEBUG QueryTool: - , 001, 0, 1, 退出系统, 0, 15, 刘一平, 退出系统, 2015-12-09T10:53:46
+2015-12-09 13:59:01.330 DEBUG root: - 系统初始化 ...
+2015-12-09 13:59:01.380 DEBUG DBManager: - 连接主数据库成功
+2015-12-09 13:59:01.400 DEBUG DBManager: - 连接主数据库成功
+2015-12-09 13:59:02.606 DEBUG root: - staticAppInstance init 
+2015-12-09 13:59:02.609 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-12-09 13:59:02.609 DEBUG QueryTool: - , 001, 0, 1, 登陆系统, 0, 15, 刘一平, 登陆系统, 2015-12-09T13:59:02
+2015-12-09 13:59:02.739 DEBUG DBManager: - 连接数据库 goin_001_2013 成功
+2015-12-09 13:59:05.552 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-12-09 13:59:05.553 DEBUG QueryTool: - , 001, 4002, 4, 采购到货单, 0, 15, 刘一平, 打开采购到货单, 2015-12-09T13:59:05
+2015-12-09 13:59:17.487 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-12-09 13:59:17.488 DEBUG QueryTool: - , 001, 4002, 4, 采购到货单, 40028, 15, 刘一平, 打印采购到货单, 2015-12-09T13:59:17
+2015-12-09 13:59:21.289 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-12-09 13:59:21.289 DEBUG QueryTool: - , 001, 6006, 6, 委托代销发货单, 0, 15, 刘一平, 打开委托代销发货单, 2015-12-09T13:59:21
+2015-12-09 13:59:30.413 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-12-09 13:59:30.413 DEBUG QueryTool: - , 001, 6006, 6, 委托代销发货单, 60068, 15, 刘一平, 打印委托代销发货单, 2015-12-09T13:59:30
+2015-12-09 13:59:38.911 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-12-09 13:59:38.912 DEBUG QueryTool: - , 001, 6006, 6, 委托代销发货单, 60068, 15, 刘一平, 打印委托代销发货单, 2015-12-09T13:59:38
+2015-12-09 13:59:43.961 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-12-09 13:59:43.961 DEBUG QueryTool: - , 001, 4002, 4, 采购到货单, 0, 15, 刘一平, 打开采购到货单, 2015-12-09T13:59:43
+2015-12-09 14:00:02.568 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-12-09 14:00:02.569 DEBUG QueryTool: - , 001, 4002, 4, 采购到货单, 40028, 15, 刘一平, 打印采购到货单, 2015-12-09T14:00:02
+2015-12-09 14:00:07.567 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-12-09 14:00:07.568 DEBUG QueryTool: - , 001, 6002, 6, 销售发货单, 0, 15, 刘一平, 打开销售发货单, 2015-12-09T14:00:07
+2015-12-09 14:00:16.260 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-12-09 14:00:16.261 DEBUG QueryTool: - , 001, 6002, 6, 销售发货单, 60028, 15, 刘一平, 打印销售发货单, 2015-12-09T14:00:16
+2015-12-09 14:00:27.917 DEBUG QueryTool: - , ad_system_id, ad_window_id, ad_sub_id, ad_log_name, ad_process_id, ad_userid, ad_usename, description, proc_time
+2015-12-09 14:00:27.918 DEBUG QueryTool: - , 001, 0, 1, 退出系统, 0, 15, 刘一平, 退出系统, 2015-12-09T14:00:27
